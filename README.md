@@ -9,7 +9,7 @@ Comparative analysis of regulatory success factors for AI-SaMD (FDA, EMA, HSA) b
 
 ### Technology Stack
  **Language:** Python
- **Key Libraries:** * `Pandas`: For complex data structure manipulation.
+ **Key Libraries:**  `Pandas`: For complex data structure manipulation.
   * `Matplotlib` / `Seaborn`: Visualizing "Transatlantic Divides" and safety distributions.
   * `SciPy`: Implementing T-tests for statistical hypothesis validation.
 
